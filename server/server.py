@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 from flask import Flask, request
 from flask_cors import cross_origin
 app = Flask(__name__)
@@ -28,4 +28,4 @@ if __name__ == "__main__":
 
 
 
-#   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
+#   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
